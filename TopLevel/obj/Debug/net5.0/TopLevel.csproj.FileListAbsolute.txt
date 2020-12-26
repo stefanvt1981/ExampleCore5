@@ -1,0 +1,16 @@
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/TopLevel
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/TopLevel.deps.json
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/TopLevel.runtimeconfig.json
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/TopLevel.runtimeconfig.dev.json
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/TopLevel.dll
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/ref/TopLevel.dll
+/home/sharmila/Source/ExampleCore5/TopLevel/bin/Debug/net5.0/TopLevel.pdb
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.csprojAssemblyReference.cache
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.GeneratedMSBuildEditorConfig.editorconfig
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.AssemblyInfoInputs.cache
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.AssemblyInfo.cs
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.csproj.CoreCompileInputs.cache
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.dll
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/ref/TopLevel.dll
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.pdb
+/home/sharmila/Source/ExampleCore5/TopLevel/obj/Debug/net5.0/TopLevel.genruntimeconfig.cache

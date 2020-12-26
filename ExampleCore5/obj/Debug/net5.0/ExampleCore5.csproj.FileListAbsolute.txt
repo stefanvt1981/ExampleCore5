@@ -1,0 +1,16 @@
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ExampleCore5
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ExampleCore5.deps.json
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ExampleCore5.runtimeconfig.json
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ExampleCore5.runtimeconfig.dev.json
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ExampleCore5.dll
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ref/ExampleCore5.dll
+/home/sharmila/Source/ExampleCore5/ExampleCore5/bin/Debug/net5.0/ExampleCore5.pdb
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.csprojAssemblyReference.cache
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.GeneratedMSBuildEditorConfig.editorconfig
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.AssemblyInfoInputs.cache
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.AssemblyInfo.cs
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.csproj.CoreCompileInputs.cache
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.dll
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ref/ExampleCore5.dll
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.pdb
+/home/sharmila/Source/ExampleCore5/ExampleCore5/obj/Debug/net5.0/ExampleCore5.genruntimeconfig.cache
