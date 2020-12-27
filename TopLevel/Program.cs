@@ -23,21 +23,8 @@ string[] answers =
     "Signs point to yes.",
 };
 
-for (int i = 0; i < 20; i++)
-{
-    Console.Write("| -");
-    await Task.Delay(50);
-    Console.Write("\b\b\b");
-    Console.Write("/ \\");
-    await Task.Delay(50);
-    Console.Write("\b\b\b");
-    Console.Write("- |");
-    await Task.Delay(50);
-    Console.Write("\b\b\b");
-    Console.Write("\\ /");
-    await Task.Delay(50);
-    Console.Write("\b\b\b");
-}
+await TopLevel.Utilities.ShowConsoleAnimation();
+
 Console.WriteLine();
 
 var index = new Random().Next(answers.Length - 1);
